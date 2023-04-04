@@ -3,10 +3,10 @@
 
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/aashish-shrestha">
+  <a href="https://www.linkedin.com/in/sudeep-singh-b80479172">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.github.com/aashish97">
+  <a href="https://www.github.com/singh-sudeep">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://www.facebook.com/aashish.shrestha.97">
@@ -62,6 +62,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aashish97&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singh-sudeep&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish97&layout=compact&theme=vision-friendly-dark)](https://github.com/aashish97)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=singh-sudeep&layout=compact&theme=vision-friendly-dark)](https://github.com/aashish97)
