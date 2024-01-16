@@ -58,6 +58,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### :fire: My Stats :
+![Snake animation](https://github.com/singh-sudeep/singh-sudeep/blob/output/github-contribution-grid-snake.svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=singh-sudeep&theme=dark&background=000000)](https://git.io/streak-stats)
 
